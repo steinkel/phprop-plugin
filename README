@@ -1,3 +1,5 @@
 Phprop-Plugin
 
 CakePHP Plugin
+
+phprop-plugin is a cakephp plugin to manage multilanguage html content based on a json properties file
